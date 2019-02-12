@@ -1,62 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ebda020-e4b1-4d58-b63e-bd2caa0d7d8a" name="Default Changelist" comment="" />
+    <list default="true" id="1ebda020-e4b1-4d58-b63e-bd2caa0d7d8a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.idea.ProceduralCubeGeneration/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/.idea.ProceduralCubeGeneration/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/.idea.ProceduralCubeGeneration/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/.idea.ProceduralCubeGeneration/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.HelloUnity/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.idea.ProceduralCubeGeneration/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.idea.ProceduralCubeGeneration/riderModule.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.HelloUnity/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HelloUnity/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.HelloUnity/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HelloUnity/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-1088220524">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="cs" value="9741" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="C#" value="9741" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="cs" value="9" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="C#" value="9" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/CubeScript.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
+            <state relative-caret-position="375">
               <caret line="30" selection-start-line="30" selection-end-line="30" />
               <folding>
-                <marker date="1549822756214" expanded="false" signature="6:78" ph="..." />
-                <marker date="1549822756214" expanded="true" signature="119:1762" ph="{...}" />
-                <marker date="1549822756214" expanded="true" signature="393:808" ph="{...}" />
-                <marker date="1549822756214" expanded="true" signature="712:802" ph="/* adds wobble on the xAxis ... */" />
-                <marker date="1549822756214" expanded="true" signature="960:1143" ph="{...}" />
-                <marker date="1549822756214" expanded="true" signature="1201:1760" ph="{...}" />
-                <marker date="1549822756214" expanded="true" signature="1258:1407" ph="/* the default rotation rotates around the centre of the object itself ... */" />
-                <marker date="1549822756214" expanded="true" signature="1547:1754" ph="/* Vector.zero tells the object to rotate around the vector of (0, 0, 0), creating an origin of rotation ... */" />
+                <marker date="1549992658337" expanded="false" signature="6:78" ph="..." />
+                <marker date="1549992658337" expanded="true" signature="119:1762" ph="{...}" />
+                <marker date="1549992658337" expanded="true" signature="393:808" ph="{...}" />
+                <marker date="1549992658337" expanded="true" signature="712:802" ph="/* adds wobble on the xAxis ... */" />
+                <marker date="1549992658337" expanded="true" signature="960:1143" ph="{...}" />
+                <marker date="1549992658337" expanded="true" signature="1201:1760" ph="{...}" />
+                <marker date="1549992658337" expanded="true" signature="1258:1407" ph="/* the default rotation rotates around the centre of the object itself ... */" />
+                <marker date="1549992658337" expanded="true" signature="1547:1754" ph="/* Vector.zero tells the object to rotate around the vector of (0, 0, 0), creating an origin of rotation ... */" />
+                <marker date="1549992658337" expanded="true" signature="1764:4971" ph="/* TUTORIAL CODE ... */" />
               </folding>
             </state>
           </provider>
@@ -68,10 +46,10 @@
             <state relative-caret-position="240">
               <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
               <folding>
-                <marker date="1549832078479" expanded="false" signature="6:92" ph="..." />
-                <marker date="1549832078479" expanded="true" signature="135:458" ph="{...}" />
-                <marker date="1549832078479" expanded="true" signature="258:279" ph="{...}" />
-                <marker date="1549832078479" expanded="true" signature="337:456" ph="{...}" />
+                <marker date="1549992658337" expanded="false" signature="6:92" ph="..." />
+                <marker date="1549992658337" expanded="true" signature="135:458" ph="{...}" />
+                <marker date="1549992658337" expanded="true" signature="258:279" ph="{...}" />
+                <marker date="1549992658337" expanded="true" signature="337:456" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -80,12 +58,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Triangles.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
+            <state relative-caret-position="270">
               <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
               <folding>
-                <marker date="1549847475851" expanded="true" signature="6:114" ph="..." />
-                <marker date="1549847475851" expanded="true" signature="154:556" ph="{...}" />
-                <marker date="1549847475851" expanded="true" signature="157:554" ph="/* public GameObject SpriteA = new GameObject(Sprite); ... */" />
+                <marker date="1549992658338" expanded="false" signature="6:114" ph="..." />
+                <marker date="1549992658338" expanded="true" signature="154:556" ph="{...}" />
+                <marker date="1549992658338" expanded="true" signature="157:554" ph="/* public GameObject SpriteA = new GameObject(Sprite); ... */" />
               </folding>
             </state>
           </provider>
@@ -94,18 +72,18 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/SketchScript.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
+            <state relative-caret-position="345">
               <caret line="29" selection-start-line="29" selection-end-line="29" />
               <folding>
-                <marker date="1549823733841" expanded="false" signature="6:159" ph="..." />
-                <marker date="1549823733841" expanded="true" signature="202:2095" ph="{...}" />
-                <marker date="1549823733841" expanded="true" signature="329:2014" ph="{...}" />
-                <marker date="1549823733841" expanded="true" signature="559:680" ph="/* We chose 5 because that's the distance to the nearest wall ... */" />
-                <marker date="1549823733841" expanded="true" signature="725:1999" ph="{...}" />
-                <marker date="1549823733841" expanded="true" signature="1474:1689" ph="/* newCube.GetComponent&lt;CubeScript&gt;().SetSize(1.0f - sin); //makes the size scale down faster ... */" />
-                <marker date="1549823733841" expanded="true" signature="1847:1989" ph="/* you could multiply the perc * 3.0f to make them all 3X faster ... */" />
-                <marker date="1549823733841" expanded="true" signature="2072:2093" ph="{...}" />
-                <marker date="1549823733841" expanded="true" signature="2096:5223" ph="/* if the number of cubes in the scene is less than 0, add 1 cube until the number is &lt;/= the number ... */" />
+                <marker date="1549992658338" expanded="false" signature="6:159" ph="..." />
+                <marker date="1549992658338" expanded="true" signature="202:2095" ph="{...}" />
+                <marker date="1549992658338" expanded="true" signature="329:2014" ph="{...}" />
+                <marker date="1549992658338" expanded="true" signature="559:680" ph="/* We chose 5 because that's the distance to the nearest wall ... */" />
+                <marker date="1549992658338" expanded="true" signature="725:1999" ph="{...}" />
+                <marker date="1549992658338" expanded="true" signature="1474:1689" ph="/* newCube.GetComponent&lt;CubeScript&gt;().SetSize(1.0f - sin); //makes the size scale down faster ... */" />
+                <marker date="1549992658338" expanded="true" signature="1847:1989" ph="/* you could multiply the perc * 3.0f to make them all 3X faster ... */" />
+                <marker date="1549992658338" expanded="true" signature="2072:2093" ph="{...}" />
+                <marker date="1549992658338" expanded="true" signature="2096:5223" ph="/* if the number of cubes in the scene is less than 0, add 1 cube until the number is &lt;/= the number ... */" />
               </folding>
             </state>
           </provider>
@@ -113,9 +91,13 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SketchScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Triangles.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SketchScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CubeScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraRotate.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -130,30 +112,25 @@
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="325" />
-    <option name="y" value="1463" />
-    <option name="width" value="551" />
-    <option name="height" value="1057" />
+    <option name="y" value="23" />
+    <option name="width" value="840" />
+    <option name="height" value="1027" />
   </component>
   <component name="ProjectView">
     <navigator currentView="UnityExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+      <pane id="UnityExplorer">
+        <option name="show-hidden-items" value="false" />
+        <option name="show-project-names" value="true" />
+      </pane>
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="UnityExplorer">
-        <option name="show-hidden-items" value="false" />
-      </pane>
+      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -176,11 +153,13 @@
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
       <option name="pid" />
       <method v="2" />
     </configuration>
     <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
       <option name="pid" />
       <method v="2" />
@@ -203,11 +182,12 @@
       <workItem from="1549777172797" duration="25401000" />
       <workItem from="1549933845552" duration="78000" />
       <workItem from="1549934239293" duration="9000" />
+      <workItem from="1549994352884" duration="620000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25488000" />
+    <option name="totallyTimeSpent" value="26108000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -219,10 +199,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="325" y="1463" width="480" height="1057" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="840" height="1027" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.56621003" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.37593985" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -240,6 +221,7 @@
       <window_info anchor="bottom" id="Unit Tests" order="12" />
       <window_info anchor="bottom" id="Terminal" order="13" />
       <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -252,9 +234,6 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -273,47 +252,48 @@
     <entry file="file://$PROJECT_DIR$/Assets/PostProcessing/Runtime/Components/DepthOfFieldComponent.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/CubeScript.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
+        <state relative-caret-position="375">
           <caret line="30" selection-start-line="30" selection-end-line="30" />
           <folding>
-            <marker date="1549822756214" expanded="false" signature="6:78" ph="..." />
-            <marker date="1549822756214" expanded="true" signature="119:1762" ph="{...}" />
-            <marker date="1549822756214" expanded="true" signature="393:808" ph="{...}" />
-            <marker date="1549822756214" expanded="true" signature="712:802" ph="/* adds wobble on the xAxis ... */" />
-            <marker date="1549822756214" expanded="true" signature="960:1143" ph="{...}" />
-            <marker date="1549822756214" expanded="true" signature="1201:1760" ph="{...}" />
-            <marker date="1549822756214" expanded="true" signature="1258:1407" ph="/* the default rotation rotates around the centre of the object itself ... */" />
-            <marker date="1549822756214" expanded="true" signature="1547:1754" ph="/* Vector.zero tells the object to rotate around the vector of (0, 0, 0), creating an origin of rotation ... */" />
+            <marker date="1549992658337" expanded="false" signature="6:78" ph="..." />
+            <marker date="1549992658337" expanded="true" signature="119:1762" ph="{...}" />
+            <marker date="1549992658337" expanded="true" signature="393:808" ph="{...}" />
+            <marker date="1549992658337" expanded="true" signature="712:802" ph="/* adds wobble on the xAxis ... */" />
+            <marker date="1549992658337" expanded="true" signature="960:1143" ph="{...}" />
+            <marker date="1549992658337" expanded="true" signature="1201:1760" ph="{...}" />
+            <marker date="1549992658337" expanded="true" signature="1258:1407" ph="/* the default rotation rotates around the centre of the object itself ... */" />
+            <marker date="1549992658337" expanded="true" signature="1547:1754" ph="/* Vector.zero tells the object to rotate around the vector of (0, 0, 0), creating an origin of rotation ... */" />
+            <marker date="1549992658337" expanded="true" signature="1764:4971" ph="/* TUTORIAL CODE ... */" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Triangles.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
+        <state relative-caret-position="270">
           <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
           <folding>
-            <marker date="1549847475851" expanded="true" signature="6:114" ph="..." />
-            <marker date="1549847475851" expanded="true" signature="154:556" ph="{...}" />
-            <marker date="1549847475851" expanded="true" signature="157:554" ph="/* public GameObject SpriteA = new GameObject(Sprite); ... */" />
+            <marker date="1549992658338" expanded="false" signature="6:114" ph="..." />
+            <marker date="1549992658338" expanded="true" signature="154:556" ph="{...}" />
+            <marker date="1549992658338" expanded="true" signature="157:554" ph="/* public GameObject SpriteA = new GameObject(Sprite); ... */" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/SketchScript.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
+        <state relative-caret-position="345">
           <caret line="29" selection-start-line="29" selection-end-line="29" />
           <folding>
-            <marker date="1549823733841" expanded="false" signature="6:159" ph="..." />
-            <marker date="1549823733841" expanded="true" signature="202:2095" ph="{...}" />
-            <marker date="1549823733841" expanded="true" signature="329:2014" ph="{...}" />
-            <marker date="1549823733841" expanded="true" signature="559:680" ph="/* We chose 5 because that's the distance to the nearest wall ... */" />
-            <marker date="1549823733841" expanded="true" signature="725:1999" ph="{...}" />
-            <marker date="1549823733841" expanded="true" signature="1474:1689" ph="/* newCube.GetComponent&lt;CubeScript&gt;().SetSize(1.0f - sin); //makes the size scale down faster ... */" />
-            <marker date="1549823733841" expanded="true" signature="1847:1989" ph="/* you could multiply the perc * 3.0f to make them all 3X faster ... */" />
-            <marker date="1549823733841" expanded="true" signature="2072:2093" ph="{...}" />
-            <marker date="1549823733841" expanded="true" signature="2096:5223" ph="/* if the number of cubes in the scene is less than 0, add 1 cube until the number is &lt;/= the number ... */" />
+            <marker date="1549992658338" expanded="false" signature="6:159" ph="..." />
+            <marker date="1549992658338" expanded="true" signature="202:2095" ph="{...}" />
+            <marker date="1549992658338" expanded="true" signature="329:2014" ph="{...}" />
+            <marker date="1549992658338" expanded="true" signature="559:680" ph="/* We chose 5 because that's the distance to the nearest wall ... */" />
+            <marker date="1549992658338" expanded="true" signature="725:1999" ph="{...}" />
+            <marker date="1549992658338" expanded="true" signature="1474:1689" ph="/* newCube.GetComponent&lt;CubeScript&gt;().SetSize(1.0f - sin); //makes the size scale down faster ... */" />
+            <marker date="1549992658338" expanded="true" signature="1847:1989" ph="/* you could multiply the perc * 3.0f to make them all 3X faster ... */" />
+            <marker date="1549992658338" expanded="true" signature="2072:2093" ph="{...}" />
+            <marker date="1549992658338" expanded="true" signature="2096:5223" ph="/* if the number of cubes in the scene is less than 0, add 1 cube until the number is &lt;/= the number ... */" />
           </folding>
         </state>
       </provider>
@@ -323,10 +303,10 @@
         <state relative-caret-position="240">
           <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
           <folding>
-            <marker date="1549832078479" expanded="false" signature="6:92" ph="..." />
-            <marker date="1549832078479" expanded="true" signature="135:458" ph="{...}" />
-            <marker date="1549832078479" expanded="true" signature="258:279" ph="{...}" />
-            <marker date="1549832078479" expanded="true" signature="337:456" ph="{...}" />
+            <marker date="1549992658337" expanded="false" signature="6:92" ph="..." />
+            <marker date="1549992658337" expanded="true" signature="135:458" ph="{...}" />
+            <marker date="1549992658337" expanded="true" signature="258:279" ph="{...}" />
+            <marker date="1549992658337" expanded="true" signature="337:456" ph="{...}" />
           </folding>
         </state>
       </provider>
